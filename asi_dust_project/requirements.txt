@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+scikit-learn
+xgboost
+matplotlib
+requests
+huggingface_hub
+pyarrow
+pvlib      # optional: without it a built-in solar formula is used
+tqdm       # optional: progress bars
